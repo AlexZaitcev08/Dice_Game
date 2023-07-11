@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dice_Game</string>
+    <string name="dice_roll">Бросай кость!</string>
+    <string name="todo">TODO</string>
+</resources>

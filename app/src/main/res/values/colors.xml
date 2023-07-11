@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#131313</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lead">#352F46</color>
+    <color name="dark_gray">#1F1E24</color>
+    <color name="dark_blue">#050016</color>
+    <color name="fog">#3D374F</color>
+    <color name="blood">#BD232B</color>
+    <color name="garnet">#8A383C</color>
+
+</resources>
